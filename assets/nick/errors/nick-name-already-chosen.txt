@@ -1,0 +1,1 @@
+The nick name is already chosen. Please choose another nick name using the command /nick <nick-name>

@@ -1,0 +1,1 @@
+You need to choose a nick name to chat here. Please choose a nick name using the command /nick <nick-name>
