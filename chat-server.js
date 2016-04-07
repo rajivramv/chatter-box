@@ -80,9 +80,9 @@ function broadcastUserJoining(newUserNickName){
 }
 
 function sendUserNickNameList(){
-	var nickNames 	= [],
-		keysIter	= users.keys(),
-		i 			= 0;
+	var nickNames = [],
+		keysIter = users.keys(),
+		i = 0;
 	for (;i<users.size;i++){
 		nickNames.push(keysIter.next().value);
 	}

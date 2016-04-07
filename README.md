@@ -12,4 +12,4 @@ A simple Node.js chat application
 4. You can now connect to the server  using the command `nc <host-ip> 3000`.
 
 ## Client
-1. Instead of netcat, you can connect to the server using the chatter-box client using the command `node chat-client.js`
+1. Instead of netcat, you can connect to the server using the chatter-box client using the command `node chat-client.js`.
